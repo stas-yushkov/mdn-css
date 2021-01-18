@@ -12,3 +12,18 @@ li{
   color: orange;
   font-weight: bold;
 }
+li em{
+  color: rebeccapurple;
+}
+h1 + p{
+  font-size: 200%;
+}
+p span{
+  color: red;
+}
+a:link{
+  color: purple;
+}
+a :visited{
+  color: green;
+}
