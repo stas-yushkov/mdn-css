@@ -21,3 +21,9 @@ h1 + p{
 p span{
   color: red;
 }
+a:link{
+  color: purple;
+}
+a :visited{
+  color: green;
+}
