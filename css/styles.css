@@ -21,9 +21,14 @@ h1 + p{
 p span{
   color: red;
 }
-a:link{
-  color: purple;
+a:link {
+    color: pink;
 }
-a :visited{
-  color: green;
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: none;
 }
